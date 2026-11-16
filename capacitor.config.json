@@ -1,0 +1,9 @@
+{
+  "appId": "com.biomech.lab",
+  "appName": "Biomechanics Lab",
+  "webDir": "www",
+  "backgroundColor": "#0b0f11",
+  "android": {
+    "allowMixedContent": true
+  }
+}
